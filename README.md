@@ -51,13 +51,6 @@ mid-training / SFT / CoT-SFT, where broad representations already exist and the
 goal is to consolidate task structure and drop memorization-like high-rank
 noise.
 
-## Repo layout
-
-    src/        LRD optimizer step + Newton-Schulz polar approximation
-    experiments/  modular arithmetic grokking runs
-    notebooks/  spectral / stable-rank analysis
-
-(still being cleaned up)
 
 ## Status / TODO
 

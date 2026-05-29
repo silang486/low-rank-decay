@@ -24,3 +24,5 @@ results/
 *.pth
 *.ckpt
 *.onnx
+
+实验技术报告.html
